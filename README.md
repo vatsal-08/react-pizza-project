@@ -1,1 +1,1 @@
-# Pizza-toppings
+# react-pizza-project
